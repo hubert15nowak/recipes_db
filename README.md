@@ -6,7 +6,7 @@ mysql -u root
 ```
 potem tworzysz baze
 ```
-create database recipes
+create database recipes;
 ```
 potem wychodzisz ctrl+c
 i wpisujesz
